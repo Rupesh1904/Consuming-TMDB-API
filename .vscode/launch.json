@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ConsumingTmdbApiApplication<Consuming-TMDB-API>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.MovieProject.ConsumingTMDBAPI.ConsumingTmdbApiApplication",
+            "projectName": "Consuming-TMDB-API",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
